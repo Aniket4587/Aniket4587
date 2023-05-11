@@ -19,7 +19,7 @@
 
 
 
-<h1 align="center">Hi there. I'm Aniket 👋</h1>
+<h1 align="center">Hiii there. I'm Aniket 👋</h1>
 <h3 align="center">⚡ I am passionate for math and programming</h3>
 
 <p align="left"> 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aniket-malunjkar-0547a51b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-malunjkar-0547a51b3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniketmalunjkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-malunjkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/malunjkaraniket1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malunjkaraniket1" height="30" width="40" /></a>
 </p>
 
