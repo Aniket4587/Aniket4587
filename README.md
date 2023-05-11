@@ -23,7 +23,7 @@
 <h3 align="center">⚡ I am passionate for math and programming</h3>
 
 <p align="left"> 
-- 🌱 I’m addicted **to enhance my skills and gain knowledge **
+- 🌱 I’m addicted **to develope my skills and gain knowledge**
 
 - 📫 How to reach me **malunjkaraniket786@gmail.com**
 
